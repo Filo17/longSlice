@@ -3,12 +3,13 @@ LongSlice, un programma che data una stringa formata solo da cifre e uno "span",
 
 ## Descrizione del progretto
 
-Realizzazione di un programma in console che permette di mostrare in output la sequenza di numeri più grande fra tutte quelle presenti.
+Realizzazione di un programma in console che permette di mostrare in output la sequenza di numeri più grande fra tutte quelle presenti. <br>
 **Ad esempio:**
 
-- data in ingresso la stringa "1027839564", 
-- il prodotto più grande per una serie di 3 cifre è 270 (9 * 5 * 6)
-- e il prodotto più grande per una serie di 5 cifre è 7560 (7 * 8 * 3 * 9 * 5).
+- data in ingresso la stringa "1027839564" <br>
+ il prodotto più grande per una serie di 3 cifre è 270 (9 * 5 * 6)
+- Per l'ingresso "73167176531330624919225119674426574742355349194934" <br>
+ il prodotto più grande per una serie di 6 cifre è 23520.
 
 ## Come funziona?
   
